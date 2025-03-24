@@ -43,10 +43,7 @@ An ESG reporting tool built with CSS, JavaScript, and TypeScript.
 - **Blockchain4devs Course**: Developed a comprehensive training course for blockchain development.
 - **AI Projects**: Deployed and integrated LLaMA, a large language model by Facebook, and developed an API for dynamic query-response workflows.
 - **CTO & Co-Founder at Nortech**: Leading the technological vision and strategic direction of a pioneering platform at the intersection of education and financial technology.
-
-## 📈 GitHub Stats
-## ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leofigueiredop&show_icons=true&theme=radical)
-
+  
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/leonardo-pickler-96b547b5/)
 - [Twitter](https://twitter.com/leofigueiredop)
